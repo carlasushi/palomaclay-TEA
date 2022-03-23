@@ -150,13 +150,12 @@ Pipes get clogged with clay, to avoid damaging them we use three buckets: rinse 
 The Potter's Bible by Marylin Scott</a>
 </h2>
 
-Description
-An essential illustrated reference for both beginner and advanced potters, The Potter's Bible features step-by-step photographic sequences to guide you through a comprehensive range of techniques.
+This book is an illustrated reference for both beginner and advanced potters, The Potter's Bible features step-by-step photographic sequences to guide you through a comprehensive range of techniques.
 
 
 <h2>
 <a href="https://archive.org/details/japanesepotteryh0000simp" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
-The Japanese pottery handbook
+The Japanese Pottery Handbook
 by Simpson, Penny</a>
 </h2>
 

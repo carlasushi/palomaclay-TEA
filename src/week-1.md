@@ -63,7 +63,7 @@ Read the entire article HERE</a>
 </div>
 
 ---
-## What is is wedging clay?
+## What is wedging clay?
 
 Wedging clay is a process to make sure the clay is in a proper working condition before you start making pottery with it. The clay is moved in a repetitive way to help remove air bubbles and even out the consistency. There are multiple methods that can be used.
 

@@ -11,7 +11,7 @@ layout: markdown
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/pQ5BR3ckCMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 
-  <div class="grid gap-4"><img src="https://images.unsplash.com/photo-1622691078858-58f9eb8825e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=749&q=80"  class="w-screen"  alt="timming ">
+  <div class="grid gap-4"><img src="https://images.unsplash.com/photo-1595446472901-b0988e150f9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"  class="w-screen"  alt="timming-2 ">
   </div>
   <!-- ... -->
 

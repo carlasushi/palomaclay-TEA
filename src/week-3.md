@@ -27,9 +27,6 @@ layout: markdown
   <div class="aspect-w-16 aspect-h-9 ">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/7MMtaMArAWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div> 
-    <div class="aspect-w-16 aspect-h-9 ">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7TJSr2w8Ubs?start=183" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   </div>
  </div> 
 
 - Tip: make sure you take small amounts of clay in each go, it is like shaving, not digging.

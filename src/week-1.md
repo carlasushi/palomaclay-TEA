@@ -20,7 +20,7 @@ layout: markdown
 
 Since the earliest times, humankind has had a close association with clay. From use as a building material, in pottery, for treating human digestive ailments to a multitude of industrial uses, clay is a key ingredient in the material world we live in.
 
-Commercially, the most important clays are known as kaolin and bentonite
+Commercially, the most important clays are known as kaolin and bentonite.
 
 ## Where does clay come from? 
 
@@ -42,8 +42,6 @@ Throughout the mineral, there is a tetrahedraloctahedral (TO) layered structure 
 Read the entire article HERE</a>
 
 
-
-
 ---
 
 ## Stages of clay
@@ -58,7 +56,8 @@ Read the entire article HERE</a>
 
 
 ### Stages of clay video
-<div class="aspect-w-16 aspect-h-9my-3 lg:m-20">
+
+<div class="aspect-w-16 aspect-h-9 my-3 lg:m-20">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/4Cnx1z910LE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -79,9 +78,7 @@ Read the entire article on wedging HERE</a>
 <div class="aspect-w-16 aspect-h-9 ">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/DPSfQQUk11Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
-  <div class="aspect-w-16 aspect-h-9  ">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPwNAYvnK9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
+
   <div class="aspect-w-16 aspect-h-9  ">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/iWXuY1xKEV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div> 
@@ -90,33 +87,30 @@ Read the entire article on wedging HERE</a>
 
 You want to know how to properly wedge clay because of the following:
 
-It’ll create a much better surface for the clay to work on
-It’ll make centering easier
-You can move air bubbles out
-You can create better mounds that work better.
+- It’ll create a much better surface for the clay to work on
+- It’ll make centering easier
+- You can move air bubbles out
+- You can create better mounds that work better.
+- 
 With wedging, it’s a good rule of thumb that if you’re going to make something vertical, you want to have a mound of vertical clay. If you’re going to have something lower to the ground, you’ll want to create an open form, which in turn will make it wider as well.
 
 ---
 ## Centering
 
-
 <img src="https://images.unsplash.com/photo-1609881822156-c5d6c3f038e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=" class="w-screen" alt="centering clay">
 
 This one is the one that will take a lot of practice.
 
-It makes sense to be slow or feel like there is a lot to learn and understand. 
+It makes sense to take it slow, as it will feel like there is a lot to learn and understand. 
 
 If you ever feel overwhelmed during class, there is always the option to take a break, or hand build, or just ask for more help.
 
-I recommend you watch this video many times. There are several inspiring videos on centering online. The issue is that people have their own style. Before you investigate a new style, I suggest you stick to one video of your liking for a while. 
+I recommend you stick to one video you like and watch it many times. While, there are several inspiring videos on centering online, the issue is that people have their own style. Before you investigate a new style, I suggest you stick to one video of your liking for a while. 
 
 
-### Centering videos
+### Centering video
+
 <div class="grid md:grid-cols-2 gap-4">
-
-<div class="aspect-w-16 aspect-h-9 ">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/TqAf3tXNp6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> 
 
 <div class="aspect-w-16 aspect-h-9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/PUAwDPUNyrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -131,8 +125,10 @@ https://images.unsplash.com/photo-1478473495191-2d8dd1398896?ixlib=rb-1.2.1&ixid
 
 Don't forget to clean the little holes on wheel head, and of course your tools.
 
-Pipes get clogged with clay, to avoid damaging them we use three buckets: rinse one | rinse two | clay scrapts.
-
+Pipes get clogged with clay, to avoid damaging them we use three buckets: 
+ - Clay scraps.
+ - First rinse.
+ - Second rinse.
 
 ### Cleaning the wheel video 
 

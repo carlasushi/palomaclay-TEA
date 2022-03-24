@@ -7,3 +7,4 @@ layout: markdown
 
 # Intro to glazing
 <!-- This page is authored in markdown at `src/{{ title|lower|replace(" ", "-") }}.md` -->
+<!-- https://www.youtube.com/watch?v=PWPpEMykEac -->

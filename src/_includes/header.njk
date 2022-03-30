@@ -6,7 +6,7 @@
     {# page 1 | page 2 | page 3 etc #}
     {% for item in navigation %}
       <a
-          class="{{ 'font-black' if page.url == item.route }}"
+          class="{{ 'font-medium' if page.url == item.route }}"
           href="{{ item.route }}"
         >
         {{ item.name }}
@@ -36,10 +36,10 @@
   >
   {% for item in navigation %}
     <a
-        class="{{ 'font-black' if page.url == item.route }}"
         href="{{ item.route }}"
       >
       {{ item.name }}
+      {{item.info}}
     </a>
   {% endfor %}
 </nav>

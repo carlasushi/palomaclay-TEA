@@ -77,7 +77,29 @@ The most “forgiving” glazes might be, in no particular order:
   
  While those which run more, such as Floating Blue, might be more tricky to understand and predict. 
 
-  ### Glazing video | All levels
+# MVPS glaze recommendations 
+
+
+
+>  MVPS does allow students and members to use glazes purchased from a commercial retailer, however, but we require pre-approval of ALL outside glazes & underglazes to avoid kiln accidents. Our kilns fire at cone 5 and we allow many commercial cone 5 glazes, however, we reserve the right not to approve any glaze not suitable for our studio. See a staff member for a glaze approval sticker. 
+
+Do Not Buy or Use The Following:
+- Underglazes by Mayco or Duncan
+- Any underglaze that fluxes at 05/06
+- Crawl glazes
+- Lava glazes
+
+Anything that is very runny and will stick pots to the kiln shelf
+
+<a href="https://www.millvalleypottersstudio.com/commercial-glaze-guide" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
+ LINK TO MVPS RECOMMENDED GLAZES HERE
+
+</a>
+
+
+
+
+### Glazing video | All levels
 
   <div class="aspect-w-16 aspect-h-9 ">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/zw8rN3x5iLA?start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

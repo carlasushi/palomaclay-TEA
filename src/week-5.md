@@ -106,13 +106,21 @@ Anything that is very runny and will stick pots to the kiln shelf
   </div> 
 
 
-  ### Glazing video | Intermediate level
+### Glazing video | Intermediate level
 
   <div class="aspect-w-16 aspect-h-9 ">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/e-XfYvcD58c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div> 
 
 
+### Glazing | brushing 
+
+
+  <div class="aspect-w-16 aspect-h-9 ">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Gt2NMibyl0Y?start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div> 
+
+## Extra videos 
 ### Oxide Washes on Glaze | Very artsy
 
   <div class="aspect-w-16 aspect-h-9 ">
@@ -124,5 +132,13 @@ Anything that is very runny and will stick pots to the kiln shelf
 
  <div class="aspect-w-16 aspect-h-9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sjL6JN88Kzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div> 
+</div> 
 
+### Drawing on pottery | Japan 
+
+
+
+ <div class="aspect-w-16 aspect-h-9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r9uNWxBpJuE?start=425" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>

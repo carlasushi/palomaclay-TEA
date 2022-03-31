@@ -1,7 +1,7 @@
 module.exports = [
  
   { name: 'week 1', info: " | Centering + Wedging", route: '/week-1/' },
-  { name: 'week 2', info: "| Centering + Handbuilding", route: '/week-2/' },
+  { name: 'week 2', info: "| Centering + Hand Building", route: '/week-2/' },
   { name: 'week 3', info: "| Centering + Trimming", route: '/week-3/' },
   { name: 'week 4', info: "| Trimming + Textures", route: '/week-4/' }, 
   { name: 'week 5', info: "| Glazing", route: '/week-5/' }, 

@@ -3,41 +3,36 @@
 
 {% block body %}
   <main class="container prose md:prose-lg lg:prose-xl xl:prose-2xl p-5 my-5 md:px-10 lg:text-3xl ">
-    <h1 class="font-light font-IBM">Welcome to this pottery course resource site! </h1>
+    <h1 class="font-light font-IBM">Welcome! </h1>
     <div class= "grid md:grid-cols-2 gap-9">
       <div>
-        <h3 class="font-light"> Site info + Contact</h3>
         <p>In this site, you will find a constantly evolving course plan. I sometimes include carefully curated videos to study a particular technique and pointers to solo projects matching your current expertise.</p>
-        <p>If you have any questions please email me at </br>
-        <span>
-          <a href = "mailto: palomaclay@tutanota.com" class="uppercase font-light font-poppins hover:bg-red-100 hover:text-underline">palomaclay@tutanota.com</a>
-        </span>
-        <div>
-          <h3 class="font-light"> Content</h4>
-          <p lass="font-light">
-            {% for item in navigation %}
-              <a
+        <h3 class="font-light"> Content</h4>
+        <p lass="font-light">
+          {% for item in navigation %}
+            <a
                 class="{{ 'capitalize no-underline font-light hover:underline hover:bg-red-100 leading-loose' }}"
                 href="{{ item.route }}" >
-                {{ item.name }}
-                {{item.info}}
-              </a>
-            </br>
-          {% endfor %}
-        </p>
-      </div>
-    </div>
-
-    <div class= "sticky lg:px-5">
-      <p class="text-lg text-gray-900 uppercase absolute mt-56 ml-6 bg-orange-50  md:text-md md:mt-30 md:mx-10 lg:w-auto tracking-widest	lg:rigth-0 lg:mx-24 lg:mt-96" >
+              {{ item.name }}
+              {{item.info}}
+            </a>
+          </br>
+        {% endfor %}
+      </p>
+      <span></div>
+      {# <section class=" grid mt-40 pt-10 p-5 prose-lg md:prose-4xl prose-orange lg:prose-2xl font-light family-poppins text-gray-700 bg-orange-50">
+      
+    </section> #}
+      <div class= "sticky lg:px-5">
+        <p class="text-lg text-gray-900 uppercase absolute mt-56 ml-6 bg-orange-50  md:text-md md:mt-30 md:mx-10 lg:w-auto tracking-widest	lg:rigth-0 lg:mx-24 lg:mt-96" >
         “And, when you want something, 
         </br>
         all the universe conspires in helping you to achieve it.” </br>
     ― Paulo Coelho, The Alchemist</p>
-  <div class="md:w-full md:mb-0 mix-blend-soft-light">
-    <img class="px-4 mx-1 object-center w-screen md:w-full  mb-6 rounded " alt="pottery shards" src="https://www.waddingtons.ca/media2/728/waddingtons-876ca1a7a2ba89aea07f4c20f0411b9b.jpg">
+    <div class="md:w-full md:mb-0 mix-blend-soft-light">
+      <img class="px-4 mx-1 object-center w-screen md:w-full  mb-6 rounded " alt="pottery shards" src="https://www.waddingtons.ca/media2/728/waddingtons-876ca1a7a2ba89aea07f4c20f0411b9b.jpg">
+    </div>
   </div>
-</div>
 </div>
 </main>
 {% endblock %}

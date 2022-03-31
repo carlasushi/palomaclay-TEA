@@ -8,10 +8,8 @@ layout: markdown
 
 
 
-<div class="grid grid-cols-2 gap-4">
-<img src="https://images.unsplash.com/photo-1568374769301-2358f564f4db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"  class="w-screen"  alt="dry clay">
-<img src="https://images.unsplash.com/photo-1618239953830-3b27eb6eb009?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" class="w-screen" alt="kaolin">
-
+<div class="grid gap-4">
+ <img src="https://images.unsplash.com/photo-1568374769301-2358f564f4db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"  class="w-screen"  alt="dry clay">
 </div>
 
 
@@ -27,6 +25,10 @@ Commercially, the most important clays are known as kaolin and bentonite.
 Clay is a soft, loose, earthy material containing particles with a grain size of less than 4 micrometres (μm). It forms as a result of the weathering and erosion of rocks containing the mineral group feldspar (known as the ‘mother of clay’) over vast spans of time.
 
 During weathering, the feldspar content is altered by hydrolysis (reaction with water) to form clay minerals such as kaolinites (the principal minerals in kaolin clays) and smectites (the principal minerals in bentonite clays).
+
+<div class="grid gap-4">
+<img src="https://images.unsplash.com/photo-1618239953830-3b27eb6eb009?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" class="w-screen" alt="kaolin"> 
+</div>
 
 ## Clay minerals
 
@@ -110,7 +112,7 @@ I recommend you stick to one video you like and watch it many times. While, ther
 
 ### Centering video
 
-<div class="grid md:grid-cols-2 gap-4">
+<div class="grid gap-4">
 
 <div class="aspect-w-16 aspect-h-9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/PUAwDPUNyrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

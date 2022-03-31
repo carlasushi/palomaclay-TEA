@@ -56,6 +56,9 @@ Take a look at this photo, this is how silica naturally occurs.
 
 
 > For the advanced student, learning chemistry and thinking about atoms, molecules and chemical reactions could be something to consider or pursue in the long term. 
+
+---
+
 # Practice: A slow and gentle start
 
 ## Combination glazes versus single glaze
@@ -85,6 +88,9 @@ The most “forgiving” glazes might be, in no particular order:
   <img src="https://images.unsplash.com/photo-1495100497150-fe209c585f50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80"  class="w-screen"  alt="white satin mug">
   </div>
 
+
+---
+
 # MVPS glaze recommendations 
 
 
@@ -100,37 +106,25 @@ Anything that is very runny and will stick pots to the kiln shelf
 
 <a href="https://www.millvalleypottersstudio.com/commercial-glaze-guide" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
  LINK TO MVPS RECOMMENDED GLAZES HERE
-
 </a>
 
-
-
-
-
-<div class="grid grid-cols-2 gap-4">
-  <img src="https://www.modernegallery.com/sites/default/files/styles/gallery_slider/public/Moderne%20Gallery%20Daniel%20Rhodes%20Torso%201.jpg?itok=N6SJc77X
-"  class="w-screen"  alt="Daniel Rhodes">
-  <img src="https://images.squarespace-cdn.com/content/5164bf24e4b046996180afe8/1404240545118-2JHIBTNPRKKEJLB74MBU/DSC_0022+54-s.jpg?content-type=image%2Fjpeg"  class="w-screen"  alt="Ikebana">
-  </div>
-
-
-
-### Glazing video | All levels
+---
+## Glazing videos 
+### All levels
 
   <div class="aspect-w-16 aspect-h-9 ">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/zw8rN3x5iLA?start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div> 
 
 
-### Glazing video | Intermediate level
+###  Intermediate level: using tape
 
   <div class="aspect-w-16 aspect-h-9 ">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/e-XfYvcD58c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div> 
 
 
-### Glazing | brushing 
-
+### Brushing 
 
   <div class="aspect-w-16 aspect-h-9 ">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Gt2NMibyl0Y?start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -144,15 +138,27 @@ Anything that is very runny and will stick pots to the kiln shelf
   </div> 
 
 
-### 21 Glazing questions | Informative
+---
+
+<div class="grid grid-cols-2 gap-4">
+  <img src="https://www.modernegallery.com/sites/default/files/styles/gallery_slider/public/Moderne%20Gallery%20Daniel%20Rhodes%20Torso%201.jpg?itok=N6SJc77X
+"  class="w-screen"  alt="Daniel Rhodes artwork">
+  <img src="https://images.squarespace-cdn.com/content/5164bf24e4b046996180afe8/1404240545118-2JHIBTNPRKKEJLB74MBU/DSC_0022+54-s.jpg?content-type=image%2Fjpeg"  class="w-screen"  alt="Ikebana">
+  </div>
+
+
+## Bonus videos
+
+<div class="grid md:grid-cols-2 gap-4">
+
 
  <div class="aspect-w-16 aspect-h-9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sjL6JN88Kzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
-### Japan 
-
 
  <div class="aspect-w-16 aspect-h-9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r9uNWxBpJuE?start=425" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+</div>

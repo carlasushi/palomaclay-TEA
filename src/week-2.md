@@ -27,9 +27,9 @@ Handbuildng is a lot of fun, faster and more stress free in comparison to the wh
 
 ### Slab Roller | How to use it
 
-- To protect the longevity of the slab roller we must use two hands to simultaneously adjust the thickness of the slab.  ☆૮꒰•༝  •。꒱ა 
+- To protect the longevity of the slab roller we must use two hands to simultaneously adjust the thickness of the slab. 
 - Make sure use a canvas that matches your clay body color. For house clay: dark.
-- we compressed our clay with a soft sponge or rib tool.
+- We compressed our clay with a soft sponge or rib tool.
 
 ### Slab Roller video | Link
 
@@ -44,7 +44,7 @@ Two different techniques, both great.
 
 While having a super sharp knife seems like a great idea, this is not essential - you can use your potter’s needle to cut and scratch like a cat. The needle is super handy in both videos. Umi-san has fancy tools, you don’t need to be fancy. Your finger and a sponge can achieve a lot on their own.  Enjoy the videos and see what technique resonates more with you - perhaps try both?
 
-- Pro tip, whenever you want to add a part to the cup or any piece, use the potters needle to scratch and then the “glue” slip we have in the studio. Make sure you use the right slip called Reclaimed Clay. 
+- Tip: whenever you want to add a part to the cup or any piece, use the potters needle to scratch and then the “glue” slip we have in the studio. Make sure you use the right slip called Reclaimed Clay. 
 
 
 <div class="grid md:grid-cols-2 gap-4">
@@ -74,11 +74,11 @@ While having a super sharp knife seems like a great idea, this is not essential 
 
   ## Recap from last week + new videos | more of the same
 
-  ### Pro tip: use the scales and start with 1 pound. 
+  - Tip: use the scales and start with 1 pound. 
 
 
 
-<div class="grid md:grid-cols-2 gap-4">
+<div class="grid mt-5 md:grid-cols-2 gap-4">
   <div class="aspect-w-16 aspect-h-9 ">
      <iframe width="560" height="315" src="https://www.youtube.com/embed/I1ra5Y2prkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div> 

@@ -10,12 +10,19 @@ layout: markdown
 <!-- This page is authored in markdown at `src/{{ title|lower|replace(" ", "-") }}.md` -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/pQ5BR3ckCMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-
-  <div class="grid gap-4"><img src="https://images.unsplash.com/photo-1595446472901-b0988e150f9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"  class="w-screen"  alt="timming-2 ">
-  </div>
+<div class="grid md:grid-cols-2 gap-4">
+  <div><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp1.liveauctioneers.com%2F361%2F116811%2F60068664_1_x.jpg%3Fversion%3D1518888528%26format%3Dpjpg%26auto%3Dwebp%26quality%3D50&f=1&nofb=1"  class="w-screen"  alt="pre colombian pottery piece with face"></div>
   <!-- ... -->
+  <div class="md:m-10">
 
-  ### Trimming video
+
+  <div><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.liveauctiongroup.net%2Fi%2F32466%2F27954705_9.jpg%3Fv%3D8D4F5418A72A0D0&f=1&nofb=1  class="w-screen"  alt="pre colombian pottery broken pieces "></div>
+  
+  </div>
+</div>
+
+
+  ## Recap: Trimming video
 
   <div class="aspect-w-16 aspect-h-9 ">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/7TJSr2w8Ubs?start=183" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,15 +34,31 @@ layout: markdown
 ## Handbuilding making a pinch pot
 
 
- <img src="https://images.unsplash.com/photo-1590422749897-47036da0b0ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"  class="w-screen"  alt="pinch cups ">
-
 <div class="aspect-w-16 aspect-h-9 ">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yJTNmOYfVoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yJTNmOYfVoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
 ---
-  ## Handbuilding and adding texture  
- 
+  ## Adding texture  
+
+
+  <div class="grid md:grid-cols-2 gap-4">
+  <div>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d7e41a33734184.56b58ced76719.jpg
+ "  class="w-screen"  alt="MALI museum guide book"> 
+   </div>
+
+  <div class="md:m-10">
+
+
+  <div><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.liveauctiongroup.net%2Fi%2F32466%2F27954705_9.jpg%3Fv%3D8D4F5418A72A0D0&f=1&nofb=1  class="w-screen"  alt="pre colombian pottery broken pieces "></div>
+  
+  </div>
+</div>
+
+
+  
  
   <div class="grid md:grid-cols-2 gap-4">
   <div class="aspect-w-16 aspect-h-9 ">
@@ -49,7 +72,39 @@ layout: markdown
     <iframe width="560" height="315" src="https://www.youtube.com/embed/tdJQU-vWOpQ?start=62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-  Tip: Cornstarch helps releasing a stamp from a slab of clay. You roll the slab, compress it, dust it with cornstarch, and then impress it with a stamp. The cornstarch will burn during the first firing.
+  Tip: Cornstarch helps releasing a stamp from a slab of clay. You roll the slab, compress it, dust it with cornstarch, and then impress it with a stamp. The cornstarch will burn during the first firing. 
+
   </div>
-    
+  
+  ---
+  # Bonus inspiration
+
+   <img src="https://www.museolarco.org/wp-content/uploads/2017/05/UnionSexualBIG.jpg"  class="w-screen"  alt="Mueso Larco">
+
+  ## Museo Larco
+  ### Erotic Gallery
+The eroticism present in this major pottery collection evokes desire, attraction and the coming together of the opposing yet complementary forces that enable life to endlessly regenerate.
+
+At the heart of the Andean worldview is the concept of tinkuy: the generative meeting of opposite and complementary forces. Just as the day gives way to night before dawn comes once more, and the dry season gives way to the rains so that crops can flourish, men and women come together to engender new life.
+One of the clearest expressions of tinkuy in the art of ancient Peru is the scene depicting the mythological union of the civilizing Moche hero with Mother Earth (Pachamama). From this sexual encounter the tree of life is born as a symbol of continual renewal, the continuity of existence, and the good life (kawkay) of the community. The tree of life is a universal symbol, present in different mythologies throughout history, and a potent reminder of the renewal that comes from the erotic impulse and the sexual act.
+
+
+<a href="https://www.museolarco.org/en/exhibition/erotic-room/" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
+Link to virtual Erotic Room HERE</a>
+
+
+<img src="https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2017/10/sctp0050-pham-vietnam-hoian-potteryvillage-4170.jpg"  class="w-screen"  alt="Vietnam pottery village">
+
+## Vietnam pottery village
+
+###  Pottery as livelihood
+
+Thanh Ha Pottery Village has been making beautiful artwork for over 400 years. But it was put on the map during the time of the Nguyen Dynasty, when craftsmen were invited to fashion some decorative articles for the palace. This one-off event granted them sufficient renown to last them a lifetime.
+
+> (...) Mrs. Thoi, like the rest of the craftsmen here, is extremely skilled, and has been making pottery for over 40 years. Right now, she is making incense burners as we chat. She is dressed in a floral ao ba ba, the Vietnamese pyjama you see women wearing often on the streets, and her hair neatly tied in a bun. Once she sits down at the wheel, decades of experience take over, and her hands are firm and steady, moulding the moist clay at will. Mrs. Thoi tells us that she can make around 300 to 400 burners a day. Within a minute, a burner is done.
+
+
+<a href="https://theculturetrip.com/asia/vietnam/articles/exploring-hoi-an-vietnams-pottery-village/" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
+Link to Exploring Hoi An, Vietnam's Pottery Village Article HERE</a>
+
 

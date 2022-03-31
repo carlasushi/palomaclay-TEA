@@ -106,6 +106,15 @@ Anything that is very runny and will stick pots to the kiln shelf
 
 
 
+
+<div class="grid grid-cols-2 gap-4">
+  <img src="https://www.modernegallery.com/sites/default/files/styles/gallery_slider/public/Moderne%20Gallery%20Daniel%20Rhodes%20Torso%201.jpg?itok=N6SJc77X
+"  class="w-screen"  alt="Daniel Rhodes">
+  <img src="https://images.squarespace-cdn.com/content/5164bf24e4b046996180afe8/1404240545118-2JHIBTNPRKKEJLB74MBU/DSC_0022+54-s.jpg?content-type=image%2Fjpeg"  class="w-screen"  alt="Ikebana">
+  </div>
+
+
+
 ### Glazing video | All levels
 
   <div class="aspect-w-16 aspect-h-9 ">
@@ -143,12 +152,7 @@ Anything that is very runny and will stick pots to the kiln shelf
 
 ### Japan 
 
-<div class="grid gap-4">
-  <img src="https://images.squarespace-cdn.com/content/5164bf24e4b046996180afe8/1404240545118-2JHIBTNPRKKEJLB74MBU/DSC_0022+54-s.jpg?content-type=image%2Fjpeg"  class="w-screen"  alt="Ikebana">
-  </div>
-
 
  <div class="aspect-w-16 aspect-h-9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r9uNWxBpJuE?start=425" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</div>

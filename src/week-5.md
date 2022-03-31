@@ -77,8 +77,12 @@ The most “forgiving” glazes might be, in no particular order:
   
  While those which run more, such as Floating Blue, might be more tricky to understand and predict. 
 
-# MVPS glaze recommendations 
 
+<div class="grid gap-4">
+  <img src="https://images.unsplash.com/photo-1495100497150-fe209c585f50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80"  class="w-screen"  alt="white satin mug">
+  </div>
+
+# MVPS glaze recommendations 
 
 
 >  MVPS does allow students and members to use glazes purchased from a commercial retailer, however, but we require pre-approval of ALL outside glazes & underglazes to avoid kiln accidents. Our kilns fire at cone 5 and we allow many commercial cone 5 glazes, however, we reserve the right not to approve any glaze not suitable for our studio. See a staff member for a glaze approval sticker. 
@@ -134,8 +138,11 @@ Anything that is very runny and will stick pots to the kiln shelf
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sjL6JN88Kzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
-### Drawing on pottery | Japan 
+### Japan 
 
+<div class="grid gap-4">
+  <img src="https://images.squarespace-cdn.com/content/5164bf24e4b046996180afe8/1404240545118-2JHIBTNPRKKEJLB74MBU/DSC_0022+54-s.jpg?content-type=image%2Fjpeg"  class="w-screen"  alt="Ikebana">
+  </div>
 
 
  <div class="aspect-w-16 aspect-h-9">

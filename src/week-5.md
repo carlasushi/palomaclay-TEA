@@ -30,7 +30,8 @@ You do not need to get too involved in the details of the glazes. You can just l
 
 ## Glazes as glass
 
-Glazes on pottery are similar to other kinds of glass, and to understand pottery glazes. When thinking about glass, consider the phenomenon of melting and the tendency of matter to crystallize. All the materials of which the earth is formed were, at the beginning, in a vaporous or liquid state, due to the elevated temperatures of the early stages of the formation of the earth. 
+Glazes on pottery are similar to other kinds of glass. To understand pottery glazes when thinking about glass, consider the phenomenon of melting and the tendency of matter to crystallize. 
+All the materials of which the earth is formed were at the beginning, in a vaporous or liquid state.  This was due to the elevated temperatures of the early stages of the formation of the earth. 
 As the temperature dropped, the earth surface solidified or froze. 
 
 Hot → liquid state.
@@ -40,19 +41,21 @@ Cold → solid state.
 
 When a substance cools down in temperature, it tends to take a crystalline state. Similarly to diamonds, and other precious stones, the molecules of crystalline substances are arranged in recurring sequences or patterns which repeat themselves three-dimensionally. 
 
-For the advanced student, learning chemistry and thinking about atoms, molecules and chemical reactions could be something to consider or pursue in the long term. 
 
 The more silica a glaze contains, the more glass like it will be. As for glass objects, they are, at times, made from silica alone. 
 
-Silica is the basis of all practial glasses, and to facilitate its melting and fabrication, fluxes are added to it. The fluxes lower the melting point, allowing the forming of the glass at lower tempertures. 
+Silica is the basis of all practical glasses, and to facilitate its melting and fabrication, fluxes are added to it. The fluxes lower the melting point, allowing the forming of the glass at lower temperatures. 
 
 Take a look at this photo, this is how silica naturally occurs.
+
+
 
   <div class="grid gap-4">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprd-wret.s3.us-west-2.amazonaws.com%2Fassets%2Fpalladium%2Fproduction%2Fs3fs-public%2Fstyles%2Ffull_width%2Fpublic%2Fvhp_img3297.jpg&f=1&nofb=1"  class="w-screen"  alt="Silica Sinter">
   </div>
 
 
+> For the advanced student, learning chemistry and thinking about atoms, molecules and chemical reactions could be something to consider or pursue in the long term. 
 # Practice: A slow and gentle start
 
 ## Combination glazes versus single glaze

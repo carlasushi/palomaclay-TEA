@@ -91,7 +91,7 @@ The most “forgiving” glazes might be, in no particular order:
 
 ---
 
-# MVPS glaze recommendations 
+# MVPS glaze guide 
 
 
 >  MVPS does allow students and members to use glazes purchased from a commercial retailer, however, but we require pre-approval of ALL outside glazes & underglazes to avoid kiln accidents. Our kilns fire at cone 5 and we allow many commercial cone 5 glazes, however, we reserve the right not to approve any glaze not suitable for our studio. See a staff member for a glaze approval sticker. 

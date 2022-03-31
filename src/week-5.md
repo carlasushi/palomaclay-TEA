@@ -7,7 +7,8 @@ layout: markdown
 
 
 <p class = "indent-5 md:px-5  italic text-2xl md:text-3xl  uppercase tracking-wide leading-loose"> 
-“As an art, pottery has occupied a unique position somewhere in between sculpture and painting; that is, pottery forms which are highly dimensional and voluminous in character have been clothed in colors, textures, and motifs which relate to painting and drawing” Daniel Rodhes.
+“As an art, pottery has occupied a unique position somewhere in between sculpture and painting; that is, pottery forms which are highly dimensional and voluminous in character have been clothed in colors, textures, and motifs which relate to painting and drawing” 
+Daniel Rhodes.
 </p>
 
 <!-- This page is authored in markdown at `src/{{ title|lower|replace(" ", "-") }}.md` -->

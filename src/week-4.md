@@ -42,22 +42,6 @@ layout: markdown
 ---
   ## Adding texture  
 
-
-  <div class="grid md:grid-cols-2 gap-4">
-  <div>
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d7e41a33734184.56b58ced76719.jpg
- "  class="w-screen"  alt="MALI museum guide book"> 
-   </div>
-
-  <div class="md:m-10">
-
-
-  <div><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.liveauctiongroup.net%2Fi%2F32466%2F27954705_9.jpg%3Fv%3D8D4F5418A72A0D0&f=1&nofb=1  class="w-screen"  alt="pre colombian pottery broken pieces "></div>
-  
-  </div>
-</div>
-
-
   
  
   <div class="grid md:grid-cols-2 gap-4">

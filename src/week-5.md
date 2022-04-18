@@ -118,34 +118,11 @@ Anything that is very runny and will stick pots to the kiln shelf
   </div> 
 
 
-###  Intermediate level: using tape
-
-  <div class="aspect-w-16 aspect-h-9 ">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/e-XfYvcD58c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div> 
-
-
 ### Brushing 
 
-  <div class="aspect-w-16 aspect-h-9 ">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Gt2NMibyl0Y?start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div> 
-
-## Extra videos 
-### Oxide Washes on Glaze | Very artsy
-
-  <div class="aspect-w-16 aspect-h-9 ">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7HPfVjS7w5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div> 
-
-
----
-
-<div class="grid grid-cols-2 gap-4">
-  <img src="https://www.modernegallery.com/sites/default/files/styles/gallery_slider/public/Moderne%20Gallery%20Daniel%20Rhodes%20Torso%201.jpg?itok=N6SJc77X
-"  class="w-screen"  alt="Daniel Rhodes artwork">
-  <img src="https://images.squarespace-cdn.com/content/5164bf24e4b046996180afe8/1404240545118-2JHIBTNPRKKEJLB74MBU/DSC_0022+54-s.jpg?content-type=image%2Fjpeg"  class="w-screen"  alt="Ikebana">
-  </div>
+<div class="aspect-w-16 aspect-h-9 ">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Gt2NMibyl0Y?start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## Bonus videos

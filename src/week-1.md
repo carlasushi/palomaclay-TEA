@@ -6,10 +6,9 @@ layout: markdown
 
 <h1 class = "mt-20 font-light">{{ title }} | Wedging + Centering </h1>
 
-
-
 <div class="grid gap-4">
- <img src="https://images.unsplash.com/photo-1568374769301-2358f564f4db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"  class="w-screen h-fit"  alt="dry clay">
+ <img src="https://images.unsplash.com/photo-1568374769301-2358f564f4db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"  
+ class="w-screen"  alt="dry clay">
 </div>
 
 
@@ -27,7 +26,7 @@ Clay is a soft, loose, earthy material containing particles with a grain size of
 During weathering, the feldspar content is altered by hydrolysis (reaction with water) to form clay minerals such as kaolinites (the principal minerals in kaolin clays) and smectites (the principal minerals in bentonite clays).
 
 <div class="grid gap-4">
-<img loading="lazy" src="https://images.unsplash.com/photo-1618239953830-3b27eb6eb009?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" class="w-screen h-fit"  alt="kaolin"> 
+  <img loading="lazy" src="https://images.unsplash.com/photo-1618239953830-3b27eb6eb009?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" class="w-screen"  alt="kaolin"> 
 </div>
 
 ## Clay minerals
@@ -38,10 +37,9 @@ Kaolinite is the principal mineral in kaolin clays. It is a 1:1 clay mineral –
 
 Throughout the mineral, there is a tetrahedraloctahedral (TO) layered structure with tight packing between the layers. This tight packing – like the pages of a closed book – results in kaolinite not shrinking when dry or swelling when wet.
 
-
-
- <a href="https://www.sciencelearn.org.nz/resources/1771-what-is-clay" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
-Read the entire article HERE</a>
+<a href="https://www.sciencelearn.org.nz/resources/1771-what-is-clay" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
+  Read the entire article HERE
+</a>
 
 
 ---
@@ -60,7 +58,13 @@ Read the entire article HERE</a>
 ### Stages of clay video
 
 <div class="aspect-w-16 aspect-h-9 my-3 lg:m-20">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/4Cnx1z910LE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe 
+        loading="lazy
+        width="560" height="315" 
+        src="https://www.youtube.com/embed/4Cnx1z910LE" 
+        title="Stages of clay" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
@@ -75,15 +79,18 @@ Some potters feel that the clay benefits from the movement of wedging, especiall
 Read the entire article on wedging HERE</a>
 
 
-### Wedging videos
-<div class="grid md:grid-cols-2 gap-4">
+### Wedging video
+<div class="grid">
 <div class="aspect-w-16 aspect-h-9 ">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/DPSfQQUk11Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe 
+      loading="lazy"
+      width="560" 
+      height="315" 
+      src="https://www.youtube.com/embed/DPSfQQUk11Q" 
+      title="Wedging video 1r" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
-
-  <div class="aspect-w-16 aspect-h-9  ">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/iWXuY1xKEV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div> 
 </div>
 
 
@@ -99,7 +106,7 @@ With wedging, it’s a good rule of thumb that if you’re going to make somethi
 ---
 ## Centering
 
-<img loading="lazy" src="https://images.unsplash.com/photo-1609881822156-c5d6c3f038e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=" class="w-screen h-fit"  alt="centering clay">
+<img loading="lazy" src="https://images.unsplash.com/photo-1609881822156-c5d6c3f038e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=" class="w-screen"  alt="centering clay">
 
 This one is the one that will take a lot of practice.
 
@@ -115,7 +122,14 @@ I recommend you stick to one video you like and watch it many times. While, ther
 <div class="grid gap-4">
 
 <div class="aspect-w-16 aspect-h-9">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/PUAwDPUNyrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe 
+  loading="lazy"
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/PUAwDPUNyrs" 
+  title="How To Centre Clay" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -123,7 +137,7 @@ I recommend you stick to one video you like and watch it many times. While, ther
 
 ## How to clean your wheel
 <img loading="lazy" src="
-https://images.unsplash.com/photo-1478473495191-2d8dd1398896?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" class="w-screen h-fit"  alt="cleaning">
+https://images.unsplash.com/photo-1478473495191-2d8dd1398896?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" class="w-screen"  alt="cleaning">
 
 Don't forget to clean the little holes on wheel head, and of course your tools.
 
@@ -135,7 +149,14 @@ Pipes get clogged with clay, to avoid damaging them we use three buckets:
 ### Cleaning the wheel video 
 
 <div class="aspect-w-16 aspect-h-9 my-3 lg:m-20">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/73FRDQhh7Mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe 
+  loading="lazy"
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/73FRDQhh7Mk" 
+  title="Cleaning the wheel" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---

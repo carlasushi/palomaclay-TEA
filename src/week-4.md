@@ -12,7 +12,7 @@ layout: markdown
 
 <div class="grid gap-4">
   <div>
-    <img src="https://assets.catawiki.nl/assets/2017/3/7/a/5/4/a54b16a2-036f-11e7-8dba-36b824229b2b.jpg"  class="w-screen h-fit"  alt="pre colombian pottery piece with face">
+    <img src="https://assets.catawiki.nl/assets/2017/3/7/a/5/4/a54b16a2-036f-11e7-8dba-36b824229b2b.jpg"  class="w-screen"  alt="pre colombian pottery piece with face">
   </div>
 </div>
 
@@ -31,7 +31,9 @@ layout: markdown
 
 <div class="aspect-w-16 aspect-h-9 ">
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/yJTNmOYfVoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe 
+  loading="lazy"
+  width="560" height="315" src="https://www.youtube.com/embed/yJTNmOYfVoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
 ---
@@ -41,14 +43,20 @@ layout: markdown
  
   <div class="grid md:grid-cols-2 gap-4">
   <div class="aspect-w-16 aspect-h-9 ">
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/Jk_q9xxPVts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <iframe 
+      loading="lazy"
+      width="560" height="315" src="https://www.youtube.com/embed/Jk_q9xxPVts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </div>
    <div class="aspect-w-16 aspect-h-9 ">
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/bXxhRyOv7Kk?start=62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe>
+     <iframe 
+     loading="lazy"
+     width="560" height="315" src="https://www.youtube.com/embed/bXxhRyOv7Kk?start=62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe>
   </div>
      <div class="aspect-w-16 aspect-h-9 ">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/tdJQU-vWOpQ?start=62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe 
+    loading="lazy"
+    width="560" height="315" src="https://www.youtube.com/embed/tdJQU-vWOpQ?start=62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
   Tip: Cornstarch helps releasing a stamp from a slab of clay. You roll the slab, compress it, dust it with cornstarch, and then impress it with a stamp. The cornstarch will burn during the first firing. 
@@ -58,7 +66,7 @@ layout: markdown
   ---
   # Bonus inspiration
 
-   <img loading="lazy" src="https://www.museolarco.org/wp-content/uploads/2017/05/UnionSexualBIG.jpg"  class="w-screen h-fit"  alt="Mueso Larco">
+   <img loading="lazy" src="https://www.museolarco.org/wp-content/uploads/2017/05/UnionSexualBIG.jpg"  class="w-screen"  alt="Mueso Larco">
 
   ## Museo Larco
   ### Erotic Gallery
@@ -72,7 +80,7 @@ One of the clearest expressions of tinkuy in the art of ancient Peru is the scen
 Link to virtual Erotic Room HERE</a>
 
 
-<img loading="lazy" src="https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2017/10/sctp0050-pham-vietnam-hoian-potteryvillage-4170.jpg"  class="w-screen h-fit"  alt="Vietnam pottery village">
+<img loading="lazy" src="https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2017/10/sctp0050-pham-vietnam-hoian-potteryvillage-4170.jpg"  class="w-screen"  alt="Vietnam pottery village">
 
 ## Vietnam pottery village
 

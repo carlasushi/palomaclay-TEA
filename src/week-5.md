@@ -16,7 +16,8 @@ Daniel Rhodes.
 
 
   <div class="grid gap-4">
-    <img src="http://hifructose.com/wp-content/uploads/2019/11/Shih1.jpg"  class="w-screen h-fit" alt="glazed pottery">
+    <img src="https://sistaticv2.blob.core.windows.net/cultured-mag/img/2020/06/kikkoman-website.jpg
+    "  class="w-screen" alt="glazed pottery">
     Kikkoman Soy Sauce Sculpture by Stephanie H. Shih (2019)  
   </div>
 
@@ -54,7 +55,7 @@ Take a look at this photo, this is how silica naturally occurs.
 
 
   <div class="grid gap-4">
-  <img loading="lazy" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprd-wret.s3.us-west-2.amazonaws.com%2Fassets%2Fpalladium%2Fproduction%2Fs3fs-public%2Fstyles%2Ffull_width%2Fpublic%2Fvhp_img3297.jpg&f=1&nofb=1"  class="w-screen h-fit"  alt="Silica Sinter">
+  <img loading="lazy" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprd-wret.s3.us-west-2.amazonaws.com%2Fassets%2Fpalladium%2Fproduction%2Fs3fs-public%2Fstyles%2Ffull_width%2Fpublic%2Fvhp_img3297.jpg&f=1&nofb=1"  class="w-screen"  alt="Silica Sinter">
   </div>
 
 
@@ -88,7 +89,7 @@ The most “forgiving” glazes might be, in no particular order:
 
 
 <div class="grid gap-4">
-  <img loading="lazy" src="https://images.unsplash.com/photo-1495100497150-fe209c585f50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80"  class="w-screen h-fit"  alt="white satin mug">
+  <img loading="lazy" src="https://images.unsplash.com/photo-1495100497150-fe209c585f50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80"  class="w-screen"  alt="white satin mug">
   </div>
 
 
@@ -116,29 +117,36 @@ Anything that is very runny and will stick pots to the kiln shelf
 ### All levels
 
   <div class="aspect-w-16 aspect-h-9 ">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/zw8rN3x5iLA?start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe 
+    loading="lazy"
+    width="560" height="315" src="https://www.youtube.com/embed/zw8rN3x5iLA?start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div> 
 
 
 ### Brushing 
 
 <div class="aspect-w-16 aspect-h-9 ">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Gt2NMibyl0Y?start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe 
+  loading="lazy"
+  width="560" height="315" src="https://www.youtube.com/embed/Gt2NMibyl0Y?start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 ## Bonus videos
 
-<div class="grid md:grid-cols-2 gap-4">
-
+<div class="grid grid-cols-2 gap-4">
 
  <div class="aspect-w-16 aspect-h-9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sjL6JN88Kzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe 
+  loading="lazy"
+  width="560" height="315" src="https://www.youtube.com/embed/sjL6JN88Kzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
 
  <div class="aspect-w-16 aspect-h-9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r9uNWxBpJuE?start=425" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+  <iframe 
+  loading="lazy"
+  width="560" height="315" src="https://www.youtube.com/embed/r9uNWxBpJuE?start=425" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 </div>

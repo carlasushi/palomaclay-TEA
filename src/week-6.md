@@ -10,7 +10,7 @@ layout: markdown
 
 
 <a href="https://www.diyartshop.com/product/ceramic-vase-43" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
- <img src="https://uploads-ssl.webflow.com/60057497a2c246269a55ccaa/60afe57b31ca6b32b323cd9e_Kim%20xxxxxx-p-500.jpeg"  class="w-screen h-fit" alt="glazed pottery">
+ <img src="https://uploads-ssl.webflow.com/60057497a2c246269a55ccaa/60afe57b31ca6b32b323cd9e_Kim%20xxxxxx-p-500.jpeg"  class="w-screen" alt="glazed pottery">
 </a>
 
  ## Congratulations you made it to the end of the course! Hopefully you have at least one piece you like.
@@ -29,24 +29,32 @@ layout: markdown
 
 
 <div class="aspect-w-16 aspect-h-9 ">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/-dB_xsKoYwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe 
+  loading="lazy"
+  width="560" height="315" src="https://www.youtube.com/embed/-dB_xsKoYwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
  ### Wax resist
 
 <div class="aspect-w-16 aspect-h-9 ">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/uwuoNvZKaZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe 
+  loading="lazy"
+  width="560" height="315" src="https://www.youtube.com/embed/uwuoNvZKaZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </div>  
 
 ### Oxide Washes
 <div class="aspect-w-16 aspect-h-9 ">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/7HPfVjS7w5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe 
+  loading="lazy"
+  width="560" height="315" src="https://www.youtube.com/embed/7HPfVjS7w5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
 ###  Using tape
 
   <div class="aspect-w-16 aspect-h-9 ">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/e-XfYvcD58c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe 
+    loading="lazy"
+    width="560" height="315" src="https://www.youtube.com/embed/e-XfYvcD58c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>  
 
  ---

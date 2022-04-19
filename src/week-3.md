@@ -8,7 +8,7 @@ layout: markdown
 <!-- This page is authored in markdown at `src/{{ title|lower|replace(" ", "-") }}.md` -->
 
 <div class="grid md:grid-cols-2 gap-4">
-      <div class="grid gap-4"><img src="https://images.unsplash.com/photo-1595446472901-b0988e150f9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"  class="w-screen h-fit"   alt="timming-2 ">
+      <div class="grid gap-4"><img src="https://images.unsplash.com/photo-1595446472901-b0988e150f9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"  class="w-screen"   alt="timming-2 ">
       </div>
   <!-- ... -->
   <div class="md:m-10">
@@ -29,12 +29,17 @@ layout: markdown
 
 ### Trimming videos
 
-<div class="grid md:grid-cols-2 gap-4">
+<div class="grid gap-4">
   <div class="aspect-w-16 aspect-h-9 ">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/CyuaB8calOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe 
+      loading= "lazy"
+      width="560" height="315" src="https://www.youtube.com/embed/CyuaB8calOI" title="Trimming for beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+      </iframe>
   </div> 
   <div class="aspect-w-16 aspect-h-9 ">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7MMtaMArAWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe 
+    loading="lazy"
+    width="560" height="315" src="https://www.youtube.com/embed/7MMtaMArAWo" title="Trimming Florian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div> 
  </div> 
 

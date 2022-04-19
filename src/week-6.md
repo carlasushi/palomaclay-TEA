@@ -6,7 +6,16 @@ layout: markdown
 # This is {{ title }}. | Wrapping up
 
 
-Congratulations you made it to the end of the course! Hopefully you have at least one piece you like.
+ <div class="grid gap-4">
+
+
+<a href="https://www.diyartshop.com/product/ceramic-vase-43" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
+ <img src="https://uploads-ssl.webflow.com/60057497a2c246269a55ccaa/60afe57b31ca6b32b323cd9e_Kim%20xxxxxx-p-500.jpeg"  class="w-screen h-fit" alt="glazed pottery">
+</a>
+
+ ## Congratulations you made it to the end of the course! Hopefully you have at least one piece you like.
+
+  </div>
 
 ## Last week main goals:
 

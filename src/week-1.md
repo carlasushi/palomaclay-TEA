@@ -9,7 +9,7 @@ layout: markdown
 
 
 <div class="grid gap-4">
- <img src="https://images.unsplash.com/photo-1568374769301-2358f564f4db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"  class="w-screen"  alt="dry clay">
+ <img src="https://images.unsplash.com/photo-1568374769301-2358f564f4db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"  class="w-screen h-fit"  alt="dry clay">
 </div>
 
 
@@ -27,7 +27,7 @@ Clay is a soft, loose, earthy material containing particles with a grain size of
 During weathering, the feldspar content is altered by hydrolysis (reaction with water) to form clay minerals such as kaolinites (the principal minerals in kaolin clays) and smectites (the principal minerals in bentonite clays).
 
 <div class="grid gap-4">
-<img src="https://images.unsplash.com/photo-1618239953830-3b27eb6eb009?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" class="w-screen" alt="kaolin"> 
+<img loading="lazy" src="https://images.unsplash.com/photo-1618239953830-3b27eb6eb009?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" class="w-screen h-fit"  alt="kaolin"> 
 </div>
 
 ## Clay minerals
@@ -99,7 +99,7 @@ With wedging, it’s a good rule of thumb that if you’re going to make somethi
 ---
 ## Centering
 
-<img src="https://images.unsplash.com/photo-1609881822156-c5d6c3f038e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=" class="w-screen" alt="centering clay">
+<img loading="lazy" src="https://images.unsplash.com/photo-1609881822156-c5d6c3f038e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=" class="w-screen h-fit"  alt="centering clay">
 
 This one is the one that will take a lot of practice.
 
@@ -122,8 +122,8 @@ I recommend you stick to one video you like and watch it many times. While, ther
 ---
 
 ## How to clean your wheel
-<img src="
-https://images.unsplash.com/photo-1478473495191-2d8dd1398896?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" class="w-screen" alt="cleaning">
+<img loading="lazy" src="
+https://images.unsplash.com/photo-1478473495191-2d8dd1398896?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" class="w-screen h-fit"  alt="cleaning">
 
 Don't forget to clean the little holes on wheel head, and of course your tools.
 

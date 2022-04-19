@@ -9,9 +9,9 @@ layout: markdown
 This page is authored in markdown at `src/{{ title|lower|replace(" ", "-") }}.md`
  -->
 <div class="grid grid-cols-2 gap-4">
-  <div><img src="https://images.unsplash.com/photo-1631125915902-d8abe9225ff2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"  class="w-screen"  alt="handmade vases "></div>
+  <div><img src="https://images.unsplash.com/photo-1631125915902-d8abe9225ff2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"  class="w-screen h-fit"  alt="handmade vases "></div>
   <!-- ... -->
-  <div><img src="https://images.unsplash.com/photo-1577704004116-2415208e73d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"  class="w-screen"  alt="handmade sculpture"></div>
+  <div><img src="https://images.unsplash.com/photo-1577704004116-2415208e73d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"  class="w-screen h-fit"  alt="handmade sculpture"></div>
 </div>
 
 # Before coming to class

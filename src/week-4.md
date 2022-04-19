@@ -10,14 +10,9 @@ layout: markdown
 <!-- This page is authored in markdown at `src/{{ title|lower|replace(" ", "-") }}.md` -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/pQ5BR3ckCMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-<div class="grid md:grid-cols-2 gap-4">
-  <div><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp1.liveauctioneers.com%2F361%2F116811%2F60068664_1_x.jpg%3Fversion%3D1518888528%26format%3Dpjpg%26auto%3Dwebp%26quality%3D50&f=1&nofb=1"  class="w-screen"  alt="pre colombian pottery piece with face"></div>
-  <!-- ... -->
-  <div class="md:m-10">
-
-
-  <div><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.liveauctiongroup.net%2Fi%2F32466%2F27954705_9.jpg%3Fv%3D8D4F5418A72A0D0&f=1&nofb=1  class="w-screen"  alt="pre colombian pottery broken pieces "></div>
-  
+<div class="grid gap-4">
+  <div>
+    <img src="https://assets.catawiki.nl/assets/2017/3/7/a/5/4/a54b16a2-036f-11e7-8dba-36b824229b2b.jpg"  class="w-screen h-fit"  alt="pre colombian pottery piece with face">
   </div>
 </div>
 
@@ -63,7 +58,7 @@ layout: markdown
   ---
   # Bonus inspiration
 
-   <img src="https://www.museolarco.org/wp-content/uploads/2017/05/UnionSexualBIG.jpg"  class="w-screen"  alt="Mueso Larco">
+   <img loading="lazy" src="https://www.museolarco.org/wp-content/uploads/2017/05/UnionSexualBIG.jpg"  class="w-screen h-fit"  alt="Mueso Larco">
 
   ## Museo Larco
   ### Erotic Gallery
@@ -77,7 +72,7 @@ One of the clearest expressions of tinkuy in the art of ancient Peru is the scen
 Link to virtual Erotic Room HERE</a>
 
 
-<img src="https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2017/10/sctp0050-pham-vietnam-hoian-potteryvillage-4170.jpg"  class="w-screen"  alt="Vietnam pottery village">
+<img loading="lazy" src="https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2017/10/sctp0050-pham-vietnam-hoian-potteryvillage-4170.jpg"  class="w-screen h-fit"  alt="Vietnam pottery village">
 
 ## Vietnam pottery village
 

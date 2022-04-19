@@ -16,9 +16,11 @@ Daniel Rhodes.
 
 
   <div class="grid gap-4">
-  <img src="https://images.unsplash.com/photo-1632800617920-438c80d7efc3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2835&q=80"  class="w-screen"  alt="glazed pottery">
+    <img src="http://hifructose.com/wp-content/uploads/2019/11/Shih1.jpg"  class="w-screen h-fit" alt="glazed pottery">
+    Kikkoman Soy Sauce Sculpture by Stephanie H. Shih (2019)  
   </div>
 
+----
 
 # Theory: glazes, what are they?
 ## Learning about glazes
@@ -52,7 +54,7 @@ Take a look at this photo, this is how silica naturally occurs.
 
 
   <div class="grid gap-4">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprd-wret.s3.us-west-2.amazonaws.com%2Fassets%2Fpalladium%2Fproduction%2Fs3fs-public%2Fstyles%2Ffull_width%2Fpublic%2Fvhp_img3297.jpg&f=1&nofb=1"  class="w-screen"  alt="Silica Sinter">
+  <img loading="lazy" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprd-wret.s3.us-west-2.amazonaws.com%2Fassets%2Fpalladium%2Fproduction%2Fs3fs-public%2Fstyles%2Ffull_width%2Fpublic%2Fvhp_img3297.jpg&f=1&nofb=1"  class="w-screen h-fit"  alt="Silica Sinter">
   </div>
 
 
@@ -86,7 +88,7 @@ The most “forgiving” glazes might be, in no particular order:
 
 
 <div class="grid gap-4">
-  <img src="https://images.unsplash.com/photo-1495100497150-fe209c585f50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80"  class="w-screen"  alt="white satin mug">
+  <img loading="lazy" src="https://images.unsplash.com/photo-1495100497150-fe209c585f50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80"  class="w-screen h-fit"  alt="white satin mug">
   </div>
 
 

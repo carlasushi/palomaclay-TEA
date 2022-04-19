@@ -16,7 +16,7 @@ layout: markdown
    # Understanding trimming
 
   <a href="https://archive.org/details/japanesepotteryh0000simp" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
-  Passage from a "Ceramic's a potter's handbook by Nelson, Glenn C</a>
+  Passage from a "Ceramic's a potter's handbook by Nelson, Glenn</a>
 
   >Trimming removes excess clay from the bottom of a pot, so that it is lighter and less likely to crack. If desired, trimming can give the pot a foot - a ridge of clay at the base to serve as a design accent. Some pots can be trimmed during the throwing stage and the mark of the cutting wire left as it is. Most often, trimming is done when the pots have dried to the leather-hard stage – still most but dry enough to hold their shape without distorting. If the pot becomes too dry, there is a danger of cracking; if too soft, it will sag. 
 

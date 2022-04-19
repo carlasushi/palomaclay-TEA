@@ -10,9 +10,14 @@ layout: markdown
 <!-- This page is authored in markdown at `src/{{ title|lower|replace(" ", "-") }}.md` -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/pQ5BR3ckCMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-<div class="grid gap-4">
+
+<div class="grid grid-cols-2 gap-4">
   <div>
-    <img src="https://assets.catawiki.nl/assets/2017/3/7/a/5/4/a54b16a2-036f-11e7-8dba-36b824229b2b.jpg"  class="w-screen"  alt="pre colombian pottery piece with face">
+     <img src="https://p1.liveauctioneers.com/957/75779/39593051_1_x.jpg?quality=80&version=1438288663"  class="w-screen"  alt="pre colombian ocarinas">
+  </div>
+  <!-- ... -->
+  <div>
+    <img src="https://p1.liveauctioneers.com/4885/243902/126467355_1_x.jpg?quality=80&version=1649444070"  class="w-screen"  alt="Pre Columbian Chimu Peru Pottery, Figural Vessel">
   </div>
 </div>
 

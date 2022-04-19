@@ -20,7 +20,7 @@ This page is authored in markdown at `src/{{ title|lower|replace(" ", "-") }}.md
 
 # Before coming to class
 - If you are inspired, it is a good idea to watch the centering video prior the class. If time permits it, take a look at any books you might find at your local libary. Books are a great source of inspiration, not just a reference for finding or studying techniques. 
-- I highly recommend you watch the cleaning video, it will help you reshearse how to clean quickly and stress-free before class end. 
+- I highly recommend you watch the cleaning video from week 1. It might help you reshearse how to clean quickly and stress-free before the end of class. 
 
 ---
 
@@ -59,12 +59,7 @@ While having a super sharp knife seems like a great idea, this is not essential 
         height="315" 
         src="https://www.youtube.com/embed/ie5NdWCXK3A" title="Slab cup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div> 
-
 </div> 
-
-
-- Do you think you will make a little cup with a slab? with or without a handle? what about a foot? or a face?
-- Bonus: Do you think you can make another shape other than a cup?
 
 ## Challenge | solo projects
 <div class="grid gap-4">

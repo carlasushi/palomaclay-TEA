@@ -55,11 +55,11 @@ Take a look at this photo, this is how silica naturally occurs.
 
 
   <div class="grid gap-4">
-  <img loading="lazy" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprd-wret.s3.us-west-2.amazonaws.com%2Fassets%2Fpalladium%2Fproduction%2Fs3fs-public%2Fstyles%2Ffull_width%2Fpublic%2Fvhp_img3297.jpg&f=1&nofb=1"  class="w-screen"  alt="Silica Sinter">
+  <img loading="lazy" src="https://images.unsplash.com/photo-1597696929736-6d13bed8e6a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"  class="w-screen"  alt="Vases">
   </div>
 
 
-> For the advanced student, learning chemistry and thinking about atoms, molecules and chemical reactions could be something to consider or pursue in the long term. 
+For the advanced student, learning chemistry and thinking about atoms, molecules and chemical reactions could be something to consider or pursue in the long term. 
 
 ---
 
@@ -113,14 +113,14 @@ Anything that is very runny and will stick pots to the kiln shelf
 </a>
 
 ---
-## Glazing videos 
-### All levels
+## Glazing videos | Getting started - All levels
+### Dipping 
 
-  <div class="aspect-w-16 aspect-h-9 ">
-    <iframe 
-    loading="lazy"
-    width="560" height="315" src="https://www.youtube.com/embed/zw8rN3x5iLA?start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div> 
+<div class="aspect-w-16 aspect-h-9 ">
+  <iframe 
+  loading="lazy"
+  width="560" height="315" src="https://www.youtube.com/embed/zw8rN3x5iLA?start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
 
 
 ### Brushing 
@@ -131,22 +131,89 @@ Anything that is very runny and will stick pots to the kiln shelf
   width="560" height="315" src="https://www.youtube.com/embed/Gt2NMibyl0Y?start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### 21 Questions
 
-## Bonus videos
-
-<div class="grid grid-cols-2 gap-4">
-
- <div class="aspect-w-16 aspect-h-9">
+<div class="aspect-w-16 aspect-h-9">
   <iframe 
   loading="lazy"
   width="560" height="315" src="https://www.youtube.com/embed/sjL6JN88Kzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
+---
 
- <div class="aspect-w-16 aspect-h-9">
+## Extra Glazing videos - Intermediate Level
+<div class="grid grid-cols-2 gap-4"> 
+  <div class="aspect-w-16 aspect-h-9 ">
+
+  ### How To Paint Pottery With Underglazes
+  
   <iframe 
   loading="lazy"
-  width="560" height="315" src="https://www.youtube.com/embed/r9uNWxBpJuE?start=425" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  width="560" height="315" src="https://www.youtube.com/embed/-dB_xsKoYwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  </div> 
+
+
+  <div class="aspect-w-16 aspect-h-9 ">
+
+  ### Wax resist
+
+  <iframe 
+    loading="lazy"
+    width="560" height="315" src="https://www.youtube.com/embed/uwuoNvZKaZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </div>  
+
+  <div class="aspect-w-16 aspect-h-9 ">
+  
+  ### Oxide Washes
+
+  <iframe 
+    loading="lazy"
+    width="560" height="315" src="https://www.youtube.com/embed/7HPfVjS7w5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  </div> 
+
+
+  <div class="aspect-w-16 aspect-h-9 ">
+
+  ###  Using tape
+
+  <iframe 
+  loading="lazy"
+  width="560" height="315" src="https://www.youtube.com/embed/e-XfYvcD58c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>  
+
+
+  <div class="aspect-w-16 aspect-h-9 ">
+  
+  ### Decal transfer 
+
+  <iframe width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/jGHbVPLve_A" 
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>  
 </div>
 
-</div>
+ ---
+ # Recommended books with free Internet Archive access links 
+
+<h2>
+<a href="https://archive.org/details/ceramicsbiblecom0000tayl/page/257/mode/2up" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
+The ceramics bible : the complete guide to materials and techniques
+by Taylor, Louisa</a>
+</h2>
+
+For this week: check Section 3 on glazing and firing techniques. 
+
+About the book:
+Ceramicists have been plying their art and craft for thousands of years, and never more prolifically than today. The Ceramics Bible is the most comprehensive and up-to-date volume on the subject. Brimming with more than 700 full-color photos and illustrations, this is the new definitive guide for serious ceramics practitioners. Inside are step-by-step instructions on molding, firing, and glazing techniques, generously accompanied by detailed photographs. Also included are beautiful examples of contemporary work, plus plenty of historical information, artist profiles, troubleshooting tips, and an extensive resource section. Perfect for students, artists, and collectors, this is a tremendously valuable addition to the vibrant world of ceramics.
+
+
+<h2>
+<a href="https://archive.org/details/introductiontode0000fair_w2c9" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
+Introduction to decorating & glazing pottery
+by Fairbairn, Caroliney</a>
+</h2>
+
+This is a reader's entree to a rewarding pastime and a thousands-year-old tradition. The carefully chosen selection of pottery projects is divided into three main sections, each concentrating on a particular decorating method, including underglaze, glaze, and onglaze. Clear step-by-step instructions lead readers through each photographically illustrated project.

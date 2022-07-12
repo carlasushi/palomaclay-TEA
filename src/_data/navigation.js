@@ -5,6 +5,8 @@ module.exports = [
   { name: 'week 3', info: "| Centering + Trimming", route: '/week-3/' },
   { name: 'week 4', info: "| Trimming + Textures", route: '/week-4/' }, 
   { name: 'week 5', info: "| Glazing", route: '/week-5/' }, 
-  { name: 'week 6', info: "| Wrapping Up", route: '/week-6/' },
+  { name: 'Studio Guidelines', info: "| Guidelines", route: '/guidelines/' }, 
+  // { name: 'week 6', info: "| Wrapping Up", route: '/week-6/' },
   { name: 'About', route: '/about/' },
 ]
+

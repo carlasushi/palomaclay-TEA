@@ -22,9 +22,20 @@ Daniel Rhodes.
   </div>
 
 ----
+# Last week main goals:
 
-# Theory: glazes, what are they?
-## Learning about glazes
+- Finish glazing any pieces you might have in the brisk fired shelves.
+- Correct any pieces you might have on the correction shelve.
+- Go over glazing techniques.
+- If you are not continuing with the SAME class, please empty your shelve. If you are continuing to take classes at the studio, but you are enrolled in a different class, please re-locate your items to the correspondent shelve area.
+- Keep practicing and have fun.
+
+
+---
+
+
+## Theory: glazes, what are they?
+### Learning about glazes
 
 As previously mentioned, the chemical composition of clay is similar to the average composition of the surface of the earth. This is a simple yet amazing concept to ponder upon. 
 
@@ -32,7 +43,7 @@ Similarly, when studying glazes, you will be amazed by their intrinsic magic. Un
 
 You do not need to get too involved in the details of the glazes. You can just learn about application techniques and express yourself creatively. 
 
-## Glazes as glass
+### Glazes as glass
 
 Glazes on pottery are similar to other kinds of glass. To understand pottery glazes when thinking about glass, consider the phenomenon of melting and the tendency of matter to crystallize. 
 All the materials of which the earth is formed were at the beginning, in a vaporous or liquid state.  This was due to the elevated temperatures of the early stages of the formation of the earth. 
@@ -63,9 +74,9 @@ For the advanced student, learning chemistry and thinking about atoms, molecules
 
 ---
 
-# Practice: A slow and gentle start
+## Practice: A slow and gentle start
 
-## Combination glazes versus single glaze
+### Combination glazes versus single glaze
 When beginning to learn about glazes, simply observing application combinations will be sufficient. 
 In our glaze room, we have a comprehensive and vast library of colors. There are combinations and single glaze applications:
 - Combination two coats: “ X glaze under” (first coat), wait 15 minutes “Y glaze over” (second coat).
@@ -95,7 +106,7 @@ The most “forgiving” glazes might be, in no particular order:
 
 ---
 
-# MVPS glaze guide 
+## MVPS glaze guide 
 
 
 >  MVPS does allow students and members to use glazes purchased from a commercial retailer, however, but we require pre-approval of ALL outside glazes & underglazes to avoid kiln accidents. Our kilns fire at cone 5 and we allow many commercial cone 5 glazes, however, we reserve the right not to approve any glaze not suitable for our studio. See a staff member for a glaze approval sticker. 
@@ -196,7 +207,7 @@ Anything that is very runny and will stick pots to the kiln shelf
 </div>
 
  ---
- # Recommended books with free Internet Archive access links 
+ ## Recommended books with free Internet Archive access links 
 
 <h2>
 <a href="https://archive.org/details/ceramicsbiblecom0000tayl/page/257/mode/2up" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">

@@ -3,7 +3,6 @@ title: Week 1
 layout: markdown
 ---
 
-
 <h1 class = "mt-20 font-light">{{ title }} | Wedging + Centering </h1>
 
 <div class="grid grid-cols-2 gap-4">
@@ -23,20 +22,6 @@ layout: markdown
 Since the earliest times, humankind has had a close association with clay. From use as a building material, in pottery, for treating human digestive ailments to a multitude of industrial uses, clay is a key ingredient in the material world we live in.
 
 Commercially, the most important clays are known as kaolin and bentonite.
-
-## Where does clay come from? 
-
-Clay is a soft, loose, earthy material containing particles with a grain size of less than 4 micrometres (μm). It forms as a result of the weathering and erosion of rocks containing the mineral group feldspar (known as the ‘mother of clay’) over vast spans of time.
-
-During weathering, the feldspar content is altered by hydrolysis (reaction with water) to form clay minerals such as kaolinites (the principal minerals in kaolin clays) and smectites (the principal minerals in bentonite clays).
-
-## Clay minerals
-
-Clay minerals have a sheet-like structure and are composed of mainly tetrahedrally arranged silicate and octahedrally arranged aluminate groups.
-
-Kaolinite is the principal mineral in kaolin clays. It is a 1:1 clay mineral – the basic unit is composed of a 2-dimensional (2D) layer of silicate groups tightly bonded to a 2D layer of aluminate groups.
-
-Throughout the mineral, there is a tetrahedraloctahedral (TO) layered structure with tight packing between the layers. This tight packing – like the pages of a closed book – results in kaolinite not shrinking when dry or swelling when wet.
 
 <a href="https://www.sciencelearn.org.nz/resources/1771-what-is-clay" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
   Read the entire article HERE

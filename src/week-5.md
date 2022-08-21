@@ -70,8 +70,6 @@ Take a look at this photo, this is how silica naturally occurs.
   </div>
 
 
-For the advanced student, learning chemistry and thinking about atoms, molecules and chemical reactions could be something to consider or pursue in the long term. 
-
 ---
 
 ## Practice: A slow and gentle start

@@ -15,11 +15,20 @@ Daniel Rhodes.
 <!-- https://www.youtube.com/watch?v=PWPpEMykEac -->
 
 
-  <div class="grid gap-4">
-    <img src="https://sistaticv2.blob.core.windows.net/cultured-mag/img/2020/06/kikkoman-website.jpg
+<div class="grid grid-cols-2 gap-4">
+
+  <div>
+      <img src="https://sistaticv2.blob.core.windows.net/cultured-mag/img/2020/06/kikkoman-website.jpg
     "  class="w-screen" alt="glazed pottery">
-    Kikkoman Soy Sauce Sculpture by Stephanie H. Shih (2019)  
+    <figcaption>Kikkoman Soy Sauce Sculpture by Stephanie H. Shih (2019)  </figcaption>
   </div>
+  <!-- ... -->
+  <div>
+    <img src="https://cdn.shopify.com/s/files/1/0554/5597/3514/products/lisa-hammond-2022-236_2200x.jpg?v=1668443279"  class="w-screen"  alt="Lisa Hammond Moon Jar">
+    <figcaption> Moon Jar, 2022 By Lisa Hammond</figcaption>
+  </div>
+  
+</div>
 
 ----
 # Last week main goals:
@@ -35,72 +44,11 @@ Daniel Rhodes.
 
 
 ## Theory: glazes, what are they?
-### Learning about glazes
 
-As previously mentioned, the chemical composition of clay is similar to the average composition of the surface of the earth. This is a simple yet amazing concept to ponder upon. 
-
-Similarly, when studying glazes, you will be amazed by their intrinsic magic. Unlike clay and clay bodies, the study of glaze is much more complex: materials involved, application techniques, formulations, etc. 
-
-You do not need to get too involved in the details of the glazes. You can just learn about application techniques and express yourself creatively. 
-
-### Glazes as glass
-
-Glazes on pottery are similar to other kinds of glass. To understand pottery glazes when thinking about glass, consider the phenomenon of melting and the tendency of matter to crystallize. 
-All the materials of which the earth is formed were at the beginning, in a vaporous or liquid state.  This was due to the elevated temperatures of the early stages of the formation of the earth. 
-As the temperature dropped, the earth surface solidified or froze. 
-
-Hot → liquid state.
-
-Cold → solid state. 
-
-
-When a substance cools down in temperature, it tends to take a crystalline state. Similarly to diamonds, and other precious stones, the molecules of crystalline substances are arranged in recurring sequences or patterns which repeat themselves three-dimensionally. 
-
-
-The more silica a glaze contains, the more glass like it will be. As for glass objects, they are, at times, made from silica alone. 
-
-Silica is the basis of all practical glasses, and to facilitate its melting and fabrication, fluxes are added to it. The fluxes lower the melting point, allowing the forming of the glass at lower temperatures. 
-
-Take a look at this photo, this is how silica naturally occurs.
-
-
-
-  <div class="grid gap-4">
-  <img loading="lazy" src="https://images.unsplash.com/photo-1597696929736-6d13bed8e6a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"  class="w-screen"  alt="Vases">
-  </div>
-
-
----
-
-## Practice: A slow and gentle start
-
-### Combination glazes versus single glaze
-When beginning to learn about glazes, simply observing application combinations will be sufficient. 
-In our glaze room, we have a comprehensive and vast library of colors. There are combinations and single glaze applications:
-- Combination two coats: “ X glaze under” (first coat), wait 15 minutes “Y glaze over” (second coat).
-- Single glaze one or two coats : “X glaze under”, wait 15 minutes “X glaze over” (second coat). Note that at times, one single coat is sufficient. 
-- Three coats are not recommended. 
-
-
-Perhaps stick to a small selection of glazes and practice one glazing technique several times. 
-Maybe start with single glaze applications (one color only, one coat, two coats, compare and contrast).
-Keep a concise journal. Take a memo of those colors you like the most. Develop your own glaze palette.
-
-The most “forgiving” glazes might be, in no particular order: 
-- White Satin, 
-- Moonlight, 
-- Licorice, 
-- Raw Sienna, 
-- Rutile, and 
-- Clear. 
-  
- While those which run more, such as Floating Blue, might be more tricky to understand and predict. 
-
-
-<div class="grid gap-4">
-  <img loading="lazy" src="https://images.unsplash.com/photo-1495100497150-fe209c585f50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80"  class="w-screen"  alt="white satin mug">
-  </div>
-
+### What is a glaze?
+<a href="https://creamik.com/what-is-a-glaze/?lang=en" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
+ Creamik glazes introduction | worth your time
+</a>
 
 ---
 
@@ -122,7 +70,7 @@ Anything that is very runny and will stick pots to the kiln shelf
 </a>
 
 ---
-## Glazing videos | Getting started - All levels
+## Glazing videos | Getting started - All levels techniques
 ### Dipping 
 
 <div class="aspect-w-16 aspect-h-9 ">
@@ -154,7 +102,7 @@ Anything that is very runny and will stick pots to the kiln shelf
 <div class="grid grid-cols-2 gap-4"> 
   <div class="aspect-w-16 aspect-h-9 ">
 
-  ### How To Paint Pottery With Underglazes
+### How To Paint Pottery With Under glazes
   
   <iframe 
   loading="lazy"
@@ -205,24 +153,8 @@ Anything that is very runny and will stick pots to the kiln shelf
 </div>
 
  ---
- ## Recommended books with free Internet Archive access links 
-
-<h2>
-<a href="https://archive.org/details/ceramicsbiblecom0000tayl/page/257/mode/2up" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
-The ceramics bible : the complete guide to materials and techniques
-by Taylor, Louisa</a>
-</h2>
-
-For this week: check Section 3 on glazing and firing techniques. 
-
-About the book:
-Ceramicists have been plying their art and craft for thousands of years, and never more prolifically than today. The Ceramics Bible is the most comprehensive and up-to-date volume on the subject. Brimming with more than 700 full-color photos and illustrations, this is the new definitive guide for serious ceramics practitioners. Inside are step-by-step instructions on molding, firing, and glazing techniques, generously accompanied by detailed photographs. Also included are beautiful examples of contemporary work, plus plenty of historical information, artist profiles, troubleshooting tips, and an extensive resource section. Perfect for students, artists, and collectors, this is a tremendously valuable addition to the vibrant world of ceramics.
-
-
-<h2>
-<a href="https://archive.org/details/introductiontode0000fair_w2c9" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
-Introduction to decorating & glazing pottery
-by Fairbairn, Caroliney</a>
-</h2>
-
-This is a reader's entree to a rewarding pastime and a thousands-year-old tradition. The carefully chosen selection of pottery projects is divided into three main sections, each concentrating on a particular decorating method, including underglaze, glaze, and onglaze. Clear step-by-step instructions lead readers through each photographically illustrated project.
+ 
+ ### Mike Dodd and glazes 
+<div class="aspect-w-16 aspect-h-9 ">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wKvjOeYWIn8?start=346" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>

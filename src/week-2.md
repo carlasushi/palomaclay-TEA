@@ -3,7 +3,7 @@ title: Week 2
 layout: markdown
 ---
 
-<h1 class = "mt-20 font-light">{{ title }} | Centering + Handbuilding </h1>
+<h1 class = "mt-20 font-light">{{ title }} | Centering + Hand building </h1>
 
 <!--
 This page is authored in markdown at `src/{{ title|lower|replace(" ", "-") }}.md`
@@ -24,11 +24,11 @@ This page is authored in markdown at `src/{{ title|lower|replace(" ", "-") }}.md
 ---
 ## Centering
 
-During class, we will do another centering demo, besides an intro to the basics of handbuilinding.
+During class, we will do another centering demo, besides an intro to the basics of hand builinding.
 
-## Handbuilding
+## Hand building
 
-Handbuildng is a lot of fun, faster and more stress free in comparison to the wheel. It is a great idea to use both techniues - they allow you to learn different things about clay.
+Hand building is a lot of fun, faster and more stress free in comparison to the wheel. It is a great idea to use both techniques - they allow you to learn different things about clay.
 
 ### Slab Roller | How to use it
 
@@ -43,7 +43,7 @@ LINK TO SLAB VIDEO HERE</a>
 
 ---
 
-### Handbuilding videos - MUG | CUP
+### Hand building videos - MUG | CUP
 
 - Tip: whenever you want to add a part to the cup or any piece, use the potters needle to scratch and then the “glue” slip we have in the studio. Make sure you use the right slip called Reclaimed Clay.
 
@@ -83,6 +83,6 @@ LINK TO SLAB VIDEO HERE</a>
 >
 <div class="grid  gap-4">
 
-<img src="https://daniellaondesign.com/wp-content/uploads/2021/11/mishima0-725x1024.jpg"  class="w-screen"  alt="Kimiyo Mishima">
+<img src="https://daniellaondesign.com/wp-content/uploads/2021/11/mishima0-725x1024.jpg"  class="min-w-min"  alt="Kimiyo Mishima">
   </div>
 </div>

@@ -85,18 +85,3 @@ One of the clearest expressions of tinkuy in the art of ancient Peru is the scen
 Link to virtual Erotic Room HERE</a>
 
 
-<img loading="lazy" src="https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2017/10/sctp0050-pham-vietnam-hoian-potteryvillage-4170.jpg"  class="w-screen"  alt="Vietnam pottery village">
-
-## Vietnam pottery village
-
-###  Pottery as livelihood
-
-Thanh Ha Pottery Village has been making beautiful artwork for over 400 years. But it was put on the map during the time of the Nguyen Dynasty, when craftsmen were invited to fashion some decorative articles for the palace. This one-off event granted them sufficient renown to last them a lifetime.
-
-> (...) Mrs. Thoi, like the rest of the craftsmen here, is extremely skilled, and has been making pottery for over 40 years. Right now, she is making incense burners as we chat. She is dressed in a floral ao ba ba, the Vietnamese pyjama you see women wearing often on the streets, and her hair neatly tied in a bun. Once she sits down at the wheel, decades of experience take over, and her hands are firm and steady, moulding the moist clay at will. Mrs. Thoi tells us that she can make around 300 to 400 burners a day. Within a minute, a burner is done.
-
-
-<a href="https://theculturetrip.com/asia/vietnam/articles/exploring-hoi-an-vietnams-pottery-village/" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
-Link to Exploring Hoi An, Vietnam's Pottery Village Article HERE</a>
-
-

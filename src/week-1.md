@@ -146,22 +146,3 @@ Pipes get clogged with clay, to avoid damaging them we use three buckets:
 </div>
 
 ---
-
-# Recommended Books
-
-
-<h2>
-<a href="https://bookshop.org/books/the-potter-s-bible-1-an-essential-illustrated-reference-for-both-beginner-and-advanced-potters/9780785821434" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
-The Potter's Bible by Marylin Scott</a>
-</h2>
-
-This book is an illustrated reference for both beginner and advanced potters, The Potter's Bible features step-by-step photographic sequences to guide you through a comprehensive range of techniques.
-
-
-<h2>
-<a href="https://archive.org/details/japanesepotteryh0000simp" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
-The Japanese Pottery Handbook
-by Simpson, Penny</a>
-</h2>
-
-This compact reference explains the basic terms, processes, classifications, tools, materials and techniques of Japanese potters.

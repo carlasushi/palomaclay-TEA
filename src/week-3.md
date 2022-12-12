@@ -42,9 +42,3 @@ layout: markdown
     width="560" height="315" src="https://www.youtube.com/embed/7MMtaMArAWo" title="Trimming Florian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div> 
  </div> 
-
-- Tip: make sure you take small amounts of clay in each go, it is like shaving, not digging.
-- You want a leather hard piece, but if a piece is too dry I tend to use a sponge with water (small amount) to help with the piece and make it easier for me to trim - while if a piece is leather hard perfect, one does not need to use water but just sharp clean tools. 
-Easy to rememnber:
-- High pitch →  thin or less amount of clay.
-- Low pitch →  thicker, you can take more clay.

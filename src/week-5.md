@@ -171,3 +171,10 @@ Anything that is very runny and will stick pots to the kiln shelf, not a good th
 <div class="aspect-w-16 aspect-h-9 ">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wKvjOeYWIn8?start=346" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </div>
+
+
+ ---
+ 
+ ### The Making of a mug 
+
+ 

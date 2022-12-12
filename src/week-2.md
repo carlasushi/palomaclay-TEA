@@ -67,22 +67,3 @@ LINK TO SLAB VIDEO HERE</a>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/762aU_gSgfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div> 
  </div>
-  ---
-
-## Extra Videos
-
-### If time permits - Recap from last week + new videos | more of the same
-
-- <a href="https://youtu.be/I1ra5Y2prkA" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
-  LINK TO VIDEO: How to Wedge Clay Properly | JENI HANSEN GARD covers body position and wedging techniques. 
-  </a>
-- <a href="https://youtu.be/We_Firh7uwI" class="hover:bg-orange-300 hover:underline cursor-pointer" target="_blank">
-  도자기 물레 ASMR : Pottery Throwing ASMR [ONDO STUDIO]
-  </a>
-
->
-<div class="grid  gap-4">
-
-<img src="https://daniellaondesign.com/wp-content/uploads/2021/11/mishima0-725x1024.jpg"  class="min-w-min"  alt="Kimiyo Mishima">
-  </div>
-</div>

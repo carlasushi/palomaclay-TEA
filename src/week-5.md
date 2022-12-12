@@ -94,7 +94,7 @@ Anything that is very runny and will stick pots to the kiln shelf, not a good th
 
   <div>
 
-  ### How To Paint Pottery With Under glazes
+  ### Under glazes
  <div class="aspect-w-16 aspect-h-9">  
  <iframe 
   loading="lazy"
@@ -174,7 +174,4 @@ Anything that is very runny and will stick pots to the kiln shelf, not a good th
 
 
  ---
- 
- ### The Making of a mug 
-
  
